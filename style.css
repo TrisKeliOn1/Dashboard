@@ -332,6 +332,6 @@ main .insights .progress .number {
 
 main .insights small {
   margin-top: 1.3rem;
-  display: none;
+  display: block;
 }
 
