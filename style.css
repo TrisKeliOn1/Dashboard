@@ -446,3 +446,11 @@ main .recent-orders a {
   gap: 1rem;
   margin-bottom: 1rem;
 }
+
+.right .sales-analytics {
+  margin-top: 2rem;
+}
+
+.right .sales-analytics h2 {
+  margin-bottom: 0.8rem;
+}
